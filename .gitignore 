@@ -1,0 +1,28 @@
+# Models
+my_saved_models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+config.py
+
+# macOS
+.DS_Store
+config.py
+config.py
+.ipynb_checkpoints/
+__pycache__/
+config.py
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+my_saved_models/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
